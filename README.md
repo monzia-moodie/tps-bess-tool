@@ -23,8 +23,7 @@ Built to support Massachusetts' statutory 5,000 MW storage mandate by 2030
 (Chapter 239, Acts of 2024) — the most aggressive state storage target in the U.S.
  
 ## 📊 Live Dashboard
- 
-[**→ View the Interactive Dashboard**](https://monzia-moodie.github.io/bess-siting-dashboard/)
+ [**→ View the Interactive Dashboard**](https://monzia-moodie.github.io/bess-siting-dashboard/)
  
 ## The Five Evaluation Layers
  
