@@ -24,7 +24,7 @@ Built to support Massachusetts' statutory 5,000 MW storage mandate by 2030
  
 ## 📊 Live Dashboard
  
-[**→ View the Interactive Dashboard**](https://monzia-moodie.github.io/tps-bess-tool/)
+[**→ View the Interactive Dashboard**](https://monzia-moodie.github.io/bess-siting-dashboard/)
  
 ## The Five Evaluation Layers
  
